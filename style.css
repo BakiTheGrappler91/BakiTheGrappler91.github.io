@@ -151,9 +151,11 @@ a:hover {
 section {
     padding-top: 4vh;
     height: 96vh;
-    margin: 0 10rem;
+    padding: 2rem 10rem;
     box-sizing: border-box;
     min-height: fit-content;
+    border-radius: 2rem;
+    margin: 1rem auto;
 }
 
 .section-container {
@@ -167,19 +169,16 @@ section {
     justify-content: center;
     gap: 3rem;
     height: 80vh;
+    background-color:aquamarine
 }
 
 .section__pic-container {
     display: flex;
-    height: 400px;
-    width: 400px;
     margin: auto 0;
 }
 
 #profile .section__pic-container img {
     border-radius: 50%;
-    width: 400px;
-    height: 400px;
 }
 
 .section__text {
@@ -271,6 +270,7 @@ section {
 
 #about {
     position: relative;
+    background-color: lightcoral;
 }
 
 .about-containers {
@@ -295,7 +295,7 @@ section {
 
 .arrow {
     position: absolute;
-    right: -5rem;
+    right: 2.5rem;
     bottom: 2.5rem;
 }
 
@@ -316,7 +316,7 @@ section {
 
 .section__pic-container {
     height: 500px;
-    width: 400px;
+    width: 500px;
     margin: auto 0;
 }
 
@@ -325,6 +325,7 @@ section {
 #experience {
     position: relative;
     height: 70vh;
+    background-color: plum;
 }
 
 .experience-sub-title {
@@ -364,6 +365,7 @@ article .icon {
 
 #projects {
     position: relative;
+    background-color: aliceblue
 }
 
 .color-container {
@@ -394,6 +396,7 @@ article .icon {
     justify-content: center;
     flex-direction: column;
     height: 60vh;
+    background-color: palegreen;
 }
 
 .contact-info-upper-container {
