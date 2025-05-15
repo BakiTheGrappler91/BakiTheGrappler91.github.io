@@ -1,29 +1,32 @@
-📁 David Browning - Portfolio Website
+## 📁 David Browning - Portfolio Website
 Welcome to my personal portfolio website! This site showcases my background, skills, and selected projects in data analysis, data science, and software development. It's fully responsive and built using HTML, CSS, and JavaScript.
+<br/><br/>
 
-🔗 Live Demo
+### 🔗 Live Demo
 You can view the site here [https://davidsbrowning.com](http://davidsbrowning.com/)
+<br/><br/>
 
-🚀 Features
+### 🚀 Features
 - Responsive design (desktop and mobile navigation)
 
 - Smooth scroll and clean layout
 
 - Sections for:
 
-- - About Me
+  - About Me
 
-- - Experience
+  - Experience
 
-- - Projects (linked to GitHub repositories)
+  - Projects (linked to GitHub repositories)
 
-- - Contact Info
+  - Contact Info
 
 - Downloadable resume
 
 - Clickable social media icons (LinkedIn, GitHub)
+<br/><br/>
 
-🛠️ Tech Stack
+### 🛠️ Tech Stack
 - HTML5 — Structure
 
 - CSS3 — Styling
@@ -31,31 +34,31 @@ You can view the site here [https://davidsbrowning.com](http://davidsbrowning.co
 - JavaScript — Interactivity
 
 - Responsive Design — via media queries
+<br/><br/>
 
-📂 Folder Structure
-/assets
+### 📂 Folder Structure
+- /assets
   - profile images, icons, project screenshots
-index.html
-style.css
-mediaqueries.css
-script.js
-README.md
+- index.html
+- style.css
+- mediaqueries.css
+- script.js
+- README.md
+<br/><br/>
 
-📸 Screenshots
-Add screenshots of the desktop and mobile versions to visually showcase the layout.
-
-🧠 Highlights
+### 🧠 Highlights
 Some featured projects on this site:
 
-- 🦆 Duck: A custom version control system
+🦆 Duck: A custom version control system
 
-- ❤️ Dating App Classifier: Predict pet preference via NLP
+❤️ Dating App Classifier: Predict pet preference via NLP
 
-- 🌲 National Park Biodiversity: Species endangerment trends using Python
+🌲 National Park Biodiversity: Species endangerment trends using Python
 
-- 🪐 Asteroids Game: A fun browser-based video game
+🪐 Asteroids Game: A fun browser-based video game
+<br/><br/>
 
-📩 Contact
+### 📩 Contact
 For collaboration, project inquiries, or just to say hello:
 
 📧 Email: davidsbrowning@outlook.com
@@ -63,9 +66,9 @@ For collaboration, project inquiries, or just to say hello:
 💼 LinkedIn: linkedin.com/in/david-browning-80aa9a225
 
 💻 GitHub: github.com/BakiTheGrappler91
+<br/><br/>
 
-
-✅ To-Do / Future Improvements
+### ✅ To-Do / Future Improvements
 - Add animations and transitions for smoother UI
 
 - Integrate contact form with backend (e.g. Formspree or Netlify Forms)
